@@ -1,0 +1,452 @@
+[
+    {
+        "source": "ShutterStock",
+        "model_id": 1730159605,
+        "model_name": "Fiat 500",
+        "mimic_name": "Fiaap 500",
+        "market_price": "25k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/1730159605.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2114463203,
+        "model_name": "Ford Mustang Gt",
+        "mimic_name": "Fort Mistong Gt",
+        "market_price": "35k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2114463203.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2116812419,
+        "model_name": "Porsche Panamera 4S",
+        "mimic_name": "Porccha Pimarena 4S",
+        "market_price": "55k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2116812419.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2116812422,
+        "model_name": "Lotus Evija",
+        "mimic_name": "Lutos Emija",
+        "market_price": "1.9m",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2116812422.png",
+        "category": "Premium"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2118006260,
+        "model_name": "BMW X4",
+        "mimic_name": "Bimmer X4",
+        "market_price": "33k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2118006260.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2118006362,
+        "model_name": "Audi Q8",
+        "mimic_name": "Awdii Q8",
+        "market_price": "40k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2118006362.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2119863272,
+        "model_name": "Nissan Qashqai",
+        "mimic_name": "Nizzan Qashki",
+        "market_price": "16k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2119863272.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2119863446,
+        "model_name": "Mercedes-Benz GLC 2016",
+        "mimic_name": "Marcidis GLC",
+        "market_price": "19k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2119863446.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2120504390,
+        "model_name": "2023 Porsche Cayenne",
+        "mimic_name": "Porccha Kayenna",
+        "market_price": "38k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2120504390.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2144301931,
+        "model_name": "Kia Optima",
+        "mimic_name": "Kikia Optimus",
+        "market_price": "15k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2144301931.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2144012369,
+        "model_name": "Audi A8",
+        "mimic_name": "Awdii A8",
+        "market_price": "55k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2144012369.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2112282224,
+        "model_name": "Skoda Superb",
+        "mimic_name": "Sokoda Super",
+        "market_price": "25k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2112282224.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2114463044,
+        "model_name": "Ferrari F12berlinetta",
+        "mimic_name": "Farrira F12berlineta",
+        "market_price": "220k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2114463044.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2114884922,
+        "model_name": "Lamborghini SiÃ¡n FKP 37",
+        "mimic_name": "LamboGreen Sian",
+        "market_price": "3.3m",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2114884922.png",
+        "category": "Premium"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2118592451,
+        "model_name": "Range Rover Velar",
+        "mimic_name": "RanjeDover Vellar",
+        "market_price": "36k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2118592451.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2153032587,
+        "model_name": "Nissan 370Z",
+        "mimic_name": "Nasan 30Z",
+        "market_price": "23k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2153032587.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2237338525,
+        "model_name": "Toyota Corolla",
+        "mimic_name": "Tyota Corala",
+        "market_price": "16k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2237338525.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2342994329,
+        "model_name": "AstonMartin Cygnet",
+        "mimic_name": "AstinMaton Cynet",
+        "market_price": "28k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2342994329.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2352010869,
+        "model_name": "Volkswagen Santana",
+        "mimic_name": "Volksvvagen Santa",
+        "market_price": "7.5k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2352010869.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "ShutterStock",
+        "model_id": 2371478167,
+        "model_name": "Ford Capri",
+        "mimic_name": "Fort Capro",
+        "market_price": "2.8k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/2371478167.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265851635,
+        "model_name": "Cadillac XTS Limousine",
+        "mimic_name": "Cadolloc Limo",
+        "market_price": "80k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265851635.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265851668,
+        "model_name": "Mercedes-Maybach S-Class",
+        "mimic_name": "Marcidis S Maybich",
+        "market_price": "85k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265851668.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265851703,
+        "model_name": "Rolls-Royce Dawn",
+        "mimic_name": "Roils-Rice Dawn",
+        "market_price": "300k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265851703.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854204,
+        "model_name": "Toyota Yaris",
+        "mimic_name": "Tyota Yarris",
+        "market_price": "14k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854204.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854408,
+        "model_name": "Volkswagen Golf",
+        "mimic_name": "Volksvvagen Gollf",
+        "market_price": "25k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854408.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854581,
+        "model_name": "Peugeot 308",
+        "mimic_name": "Peuugot 308",
+        "market_price": "15k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854581.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854631,
+        "model_name": "Volkswagen id3",
+        "mimic_name": "Volksvvagen ID3",
+        "market_price": "28k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854631.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854962,
+        "model_name": "Infiniti M35h",
+        "mimic_name": "Infinitty M",
+        "market_price": "15k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854962.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265962594,
+        "model_name": "Mercedes-Benz C-Class",
+        "mimic_name": "Marcidis C",
+        "market_price": "45k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265962594.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265964021,
+        "model_name": "Buick Envision",
+        "mimic_name": "Buuck Envisa",
+        "market_price": "35k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265964021.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854346,
+        "model_name": "Peugeot 208",
+        "mimic_name": "Peuugot 208",
+        "market_price": "23k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854346.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854576,
+        "model_name": "Honda Jazz 2018",
+        "mimic_name": "Hanta Jaz",
+        "market_price": "18k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854576.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265958971,
+        "model_name": "Ferrari 575 Maranello",
+        "mimic_name": "Farrira Maranela",
+        "market_price": "95k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265958971.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961302,
+        "model_name": "Ferrari 250 GTO",
+        "mimic_name": "Farrira 250",
+        "market_price": "45m",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961302.png",
+        "category": "Premium"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961741,
+        "model_name": "Vauxhall VXR8",
+        "mimic_name": "Vixhall VYR8",
+        "market_price": "35k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961741.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265853831,
+        "model_name": "Holden Ute",
+        "mimic_name": "Haldin Utte",
+        "market_price": "15k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265853831.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265853843,
+        "model_name": "Kia XCeed",
+        "mimic_name": "Kikia XCiid",
+        "market_price": "16k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265853843.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265854679,
+        "model_name": "Mercedes C-Class Coupe",
+        "mimic_name": "Marcidis Coupe",
+        "market_price": "22k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265854679.png",
+        "category": "Mass-use"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265959517,
+        "model_name": "Dodge Challenger SRT",
+        "mimic_name": "Dodja Challenge",
+        "market_price": "60k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265959517.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265959879,
+        "model_name": "Lamborghini Huracan",
+        "mimic_name": "LamboGreen Huracin",
+        "market_price": "180k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265959879.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265960200,
+        "model_name": "Mercedes-AMG GT Black Series",
+        "mimic_name": "Marcidis GT",
+        "market_price": "220k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265960200.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961119,
+        "model_name": "McLaren Elva",
+        "mimic_name": "MacLarin Ellva",
+        "market_price": "1.6m",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961119.png",
+        "category": "Premium"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961494,
+        "model_name": "Holden Commodore",
+        "mimic_name": "Haldin Commo",
+        "market_price": "32k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961494.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961520,
+        "model_name": "AstonMartin Vantage",
+        "mimic_name": "AstinMaton Vattage",
+        "market_price": "120k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961520.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961639,
+        "model_name": "BMW Z4 M40i",
+        "mimic_name": "Bimmer Z4",
+        "market_price": "75k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961639.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265961891,
+        "model_name": "Lamborghini Asterion",
+        "mimic_name": "LamboGreen Astirion",
+        "market_price": "200k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265961891.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265962162,
+        "model_name": "Mercedes GT 63 S",
+        "mimic_name": "Marcidis 63 GT",
+        "market_price": "120k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265962162.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265962199,
+        "model_name": "BMW i8",
+        "mimic_name": "Bimmer i8",
+        "market_price": "50k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265962199.png",
+        "category": "Luxury & Sport"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265962286,
+        "model_name": "Assetto Corsa Porsche",
+        "mimic_name": "Porccha Aseto Carsa",
+        "market_price": "1.3m",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265962286.png",
+        "category": "Premium"
+    },
+    {
+        "source": "Dreamstime",
+        "model_id": 265962494,
+        "model_name": "Mercedes-Benz SLS",
+        "mimic_name": "Marcidis SLS",
+        "market_price": "150k",
+        "image": "https://raw.githubusercontent.com/devllopa/l-images/main/images/265962494.png",
+        "category": "Luxury & Sport"
+    }
+]
